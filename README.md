@@ -1,4 +1,4 @@
-## DGP and Application of Space State Model(Code with Data) ##
+## DGP and Application of Markov Switching Model(Code with Data) ##
 ## ※ Notice ※
 ___
 + **Textbook**
